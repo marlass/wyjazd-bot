@@ -1,0 +1,28 @@
+{
+  "name": "wyjazd-bot",
+  "version": "1.0.0",
+  "description": "Simple messenger bot that says what you should pack for a tour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlass/wyjazd-bot.git"
+  },
+  "keywords": [
+    "but",
+    "messenger",
+    "tour",
+    "packing"
+  ],
+  "author": "Marcin Lasak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marlass/wyjazd-bot/issues"
+  },
+  "homepage": "https://github.com/marlass/wyjazd-bot#readme",
+  "dependencies": {
+    "claudia-bot-builder": "^2.15.0"
+  }
+}
